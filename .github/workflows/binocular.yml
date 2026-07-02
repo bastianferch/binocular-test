@@ -1,0 +1,15 @@
+name: Binocular
+
+on:
+    workflow_dispatch:
+permissions:
+    contents: write   # only needed if retain_runs: true (pushes the history branch)
+    pages: write
+    id-token: write
+jobs:
+    binocular:
+      uses: INSO-World/Binocular/.github/workflows/mine-and-host.yml@feature/461
+      with:
+        deploy_target: pages
+        retain_runs: true
+      secrets: inherit

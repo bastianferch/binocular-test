@@ -1,0 +1,7 @@
+"BehaviorSpace results (NetLogo 6.4.0)","Lists version 2.0"
+"spatial_pd_demographic.nlogo"
+"experiment"
+"06/07/2024 08:46:52:023 +0200"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"0","49","0","49"
+"[reporter]","[run number]","agent-maxage","pd-r","histogram-granularity","pd-s","agent-procreation-min-wealth","agent-init-coop-ratio","simulation-steps","pd-t","agent-number","agent-init-random-birth-age","patch-background-color","neighborhood","mutation-rate","agent-init-endowment","pd-p","[step]"
