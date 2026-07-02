@@ -10,6 +10,8 @@ jobs:
     binocular:
       uses: INSO-World/Binocular/.github/workflows/mine-and-host.yml@feature/461
       with:
+        binocular_ref: feature/461
         deploy_target: pages
         retain_runs: true
       secrets: inherit
+
