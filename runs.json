@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-08-05b7878",
+    "builtAt": "2026-07-08T07:23:11.337Z",
+    "sha": "05b787822a38c059311f6f68a1ed9fb75c3c5a49",
+    "runNumber": 3,
+    "subject": "Update binocular.yml",
+    "commitUrl": "https://github.com/bastianferch/binocular-test/commit/05b787822a38c059311f6f68a1ed9fb75c3c5a49"
+  },
+  {
     "slug": "2026-07-02-05b7878",
     "builtAt": "2026-07-02T10:44:51.744Z",
     "sha": "05b787822a38c059311f6f68a1ed9fb75c3c5a49",
